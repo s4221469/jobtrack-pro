@@ -32,7 +32,7 @@ Built with FastAPI + React + PostgreSQL, fully containerized with Docker.
 
 ## Quick Start
 ```bash
-git clone https://github.com/YOUR_USERNAME/jobtrack-pro.git
+git clone https://github.com/s4221469/jobtrack-pro.git
 cd jobtrack-pro
 docker-compose up --build
 ```
